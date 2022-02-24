@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "root-grammar-308418",
+  "private_key_id": "74fcad9b65606452e550a70e8db34a436c582193",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwsASOVVUPfe8t\nQo4AjosOe8+8eLkljgbc70nNFYOcetmgLg6tMinMKIk4fKs4iCHa8nEZPGNzIzZZ\nBC2nEbhtrdVuf1KglfRaZDkshbjLsAZjGpxztL7AfI3afc+AmDkVnUtMjFGRwpeA\nlXerUb5es9+Apeaf/7TXzXVxT99OVCDUIwah6bBkde7oWGbNhXI+gV62fafH1cqV\n8pXQxAGk/4UL0264PTZ9jRyFpfBU24dqiaah8DJXr66AqKLzrsCYDNj6AZ0z3qYA\nPofobwDeOVnhDFJfFdcUVHdpJGmBW5L/RLU1vZw7Dpv34pR+zOFHc6O/767bcrWh\nJHXdFZv/AgMBAAECggEAJPZNnbEAQGNp+5/msPsg4ADKrnTa1p5llSaB2+NaSwvw\nJvA7pcPOtqTsP+LktsjTvEfnnQ3jCB0fq3OSUVcFq/wnoBwGnw1/tsEsrMG0rPe/\n/k981z/Cf+YOjtyu4gn2Ny1WqUbZcZKxuvaJuE87cfhTE0ihfGsz28lhfjjlUC80\nNxsY0LLKao2ZhkJZUdtccFAMiTn0iMUOuON8WLgP9iUj1vprS5D3asguwF/9O/8w\nrgMlcdLQHPX+iB5fCSQK05ff3VDuUi6jYd7dDKqV3ozrTxXWE6FSftl2mA3CUFlh\n4QMi85vv62AVgFdCM2z4jXnBEBSjHL6/CkTwhEih4QKBgQDdxsekwPUFU4sXKTXU\nJwnbgyTutWE4QquLaeOC2GYnfbIPjF3u7T0H0Hmt5Ebfecq3xU8/nw/eL69NJP+E\nsG2HeJjHsMFtLMs36YGNE7qXJReMBEUu0iOsmlwdNGVdcLMI9wSTnwK4ivQoMf9a\no16gu6Q1sOUKtjqSwmLgeZyYWQKBgQDL9AM2VpmQHYCYQ0OX/J/+obu54uPJqFB1\nzxDhhYXpH//uWBeu9cF/wbwz83EcW7YWZEnWBRMoDlftLPZmm+3VFRiB+Jum/O//\nbRNEVanyRcvDjhuhAJ1aYwqDLrol5+Ie9OyXUtuJqXSy4MyVtoydMNUFiH49Ml4L\nn2HQ9+XMFwKBgBUV7C9e5Szfd475LRQBri8/tcg4WIj31cWIiMgM+RFyIvbVeqzX\nw4C1sov080QWGU8FpHZBEkomsH0eMmkUOSWzMptx08IkiyHCwr1+DbSHI0j9svIz\nqo6jknR4YdbTe0Iz8ixy5thS5cnYjxW4CKwxivhL3Er7bnA7qRj8lwXpAoGBAK/1\n4GebI3Xg3jd/oOuZ+veW1f20MM6ktnZNpcTMjBHrl8Usn5JFWSI+JX+0wpuyzFBZ\nShKp4jMm3Nk1d4hjczfpsXFA6hmSFAWNN5g3SB5L9VbMXi3z984psMIpKFTX0JDg\nwtZzmBEW8CX8KMXp7zsXDFJvxmpJ8DWa1quRlOMVAoGBAMQ4qhReBJqsuKD9EYok\nS1q8CO7NwCahSAulD+5LwvwzMRkyG/Uizup8rVa+WCk73bsOVtqP0bWMBkMD/tlk\nTy7yhPAfqQWjUrc1+l3xNeUjrIXG6ftV8E4hoDAr7AbAWtLYj0ToTaEpLXj+989/\n5wMx3N+AvG/wBOPo6BKAkXPC\n-----END PRIVATE KEY-----\n",
+  "client_email": "sidewalk-service-account@root-grammar-308418.iam.gserviceaccount.com",
+  "client_id": "102041497879344966201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sidewalk-service-account%40root-grammar-308418.iam.gserviceaccount.com"
+}
